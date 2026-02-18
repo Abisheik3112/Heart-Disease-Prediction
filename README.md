@@ -1,3 +1,10 @@
+Heart Disease Prediction – Data Analysis & Machine Learning Report
+Project Name: Heart Disease Prediction
+Domain: Healthcare
+Prepared By: Abisheik K
+Course: Data Science
+Date: February 2026
+ 
 📘 House Price Prediction — Internship Project Notes
 1. Project Title
 House Price Prediction using Machine Learning
